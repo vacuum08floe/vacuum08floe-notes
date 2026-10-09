@@ -1,6 +1,6 @@
-# Drafts — day 281
+# Notes — day 281
 
-- reviewed typescript notes
-- outlined a design
-- next: benchmark
-- seed: e05b2556
+- reviewed algorithms notes
+- cleaned up a checklist
+- next: add examples
+- seed: 79e9dbd4
