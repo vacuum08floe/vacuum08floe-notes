@@ -1,6 +1,6 @@
-# Scratch — day 284
+# Ideas — day 284
 
-- reviewed algorithms notes
-- drafted a design
+- reviewed python notes
+- drafted a module
 - next: write tests
-- seed: 0fb925f4
+- seed: 4ef37c27
