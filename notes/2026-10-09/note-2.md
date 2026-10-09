@@ -1,6 +1,6 @@
-# Scratch — day 282
+# Todo — day 282
 
 - reviewed typescript notes
-- drafted a script
-- next: read docs
-- seed: 89686c09
+- outlined a script
+- next: write tests
+- seed: f7308e68
